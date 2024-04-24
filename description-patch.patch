@@ -1,0 +1,12 @@
+diff --git a/paragraphs.info.yml b/paragraphs.info.yml
+index eb6c207..24e968a 100644
+--- a/paragraphs.info.yml
++++ b/paragraphs.info.yml
+@@ -1,6 +1,6 @@
+ name: Paragraphs
+ type: module
+-description: 'Enables the creation of paragraphs entities.'
++description: 'Enables the creation of paragraphs entities. So I edit this line here. '
+ core_version_requirement: ^9.3 || ^10
+ package: Paragraphs
+ configure: entity.paragraphs_type.collection
